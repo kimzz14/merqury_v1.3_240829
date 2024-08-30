@@ -1,0 +1,1 @@
+Rscript $MERQURY/plot/plot_spectra_cn.R -h
